@@ -53,6 +53,7 @@
     <Folder Include="Backend\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Backend\Procfile" />
     <Content Include="Backend\requirements.txt" />
     <Content Include="Backend\static\content\bootstrap.css" />
     <Content Include="Backend\static\content\bootstrap.min.css" />
